@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin's%20GitHub&fontAlignY=43&fontSize=80&desc=Hi%20there👋&descAlign=74&descAlignY=55&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin's%20GitHub&fontAlignY=45&fontSize=80&desc=Hi%20there👋&descAlign=74&descAlignY=55&animation=twinkling)
