@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yujin's%20GitHub&fontAlignY=43&fontSize=85&desc=Hi%20there👋&descAlign=75&descAlignY=56&animation=twinkling)
+
+---
+---
