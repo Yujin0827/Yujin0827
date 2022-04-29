@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ☁️ SNS list ☁️
 <br><br>
 <a href="https://www.instagram.com/dbwlsl__98/" target="_blank"><img src="https://img.shields.io/badge/Instagram-DD2F7D?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100007772448391" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>    
+<a href="https://www.facebook.com/profile.php?id=100005101835786" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>    
             
 
 
