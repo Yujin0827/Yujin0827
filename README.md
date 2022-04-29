@@ -41,6 +41,7 @@ yjjeon08@naver.com
 <br><br>
 <strong>🌱 Studying 🌱</strong>
 <br><br>
+<img src="https://img.shields.io/badge/%233776AB-python-blue">
 
             
             
