@@ -50,16 +50,33 @@ Web Front-end <br>
 <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/Kotlin-9932CC?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=for-the-badge&logo=Python&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-778899?style=for-the-badge&logo=JavaScript&logoColor=white">
             
 <br><br>
 <strong>🔭 Interest 🔭</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-FF0000?style=for-the-badge&logo=iOS&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+            
+<br><br>
+<strong>🛠️ Tech Stack 🛠️</strong>
+<br><br>
+<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-9932CC?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Python-ADFF2F?style=for-the-badge&logo=Python&logoColor=black">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-FF4500?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-0000FF?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-778899?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white">
 <img src="https://img.shields.io/badge/vue.js-32CD32?style=for-the-badge&logo=Vue.js&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Shell Programming-FFD500?style=flat-square&logo=Shell&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
             
             
 <br><br><br>
