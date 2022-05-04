@@ -73,7 +73,7 @@ Web Front-end <br>
 <img src="https://img.shields.io/badge/vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/MSSQL-ACACAC?style=flat&logo=Microsoft SQL Server&logoColor=white">
+<img src="https://img.shields.io/badge/MSSQL-ACACAC?style=flat&logo=Microsoft SQL Server&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/OpenCV-FFFFFF?style=flat&logo=OpenCV&logoColor=black">
