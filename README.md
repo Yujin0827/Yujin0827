@@ -67,6 +67,7 @@ Web Front-end <br>
 <img src="https://img.shields.io/badge/C-27338E?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white">
