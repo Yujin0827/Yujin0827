@@ -66,13 +66,13 @@ Web Front-end <br>
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/C-27338E?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-254BDD?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=Markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Vue.js-32CD32?style=flat&logo=Vue.js&logoColor=white"> -->
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/MSSQL-ACACAC?style=flat&logo=Microsoft SQL Server&logoColor=black">
