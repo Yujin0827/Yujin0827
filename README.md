@@ -56,7 +56,6 @@ Web Front-end <br>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/iOS-FF0000?style=flat&logo=Apple&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
