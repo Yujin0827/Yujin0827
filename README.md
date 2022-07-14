@@ -55,7 +55,7 @@ Web Front-end <br>
 <strong>🔭 Interest 🔭</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/iOS-FF0000?style=flat&logo=Apple&logoColor=white">
+//<img src="https://img.shields.io/badge/iOS-FF0000?style=flat&logo=Apple&logoColor=white">
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
