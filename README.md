@@ -41,13 +41,13 @@ yjjeon08@naver.com
 <br><br>
 <strong>🌱 Studying 🌱</strong>
 <br><br>
-Android Front-end <br>
+Android <br>
 VR <br>
             
 <br><br>
 <strong>✨ Used as the main ✨</strong>
 <br><br>
-<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
             
@@ -55,18 +55,17 @@ VR <br>
 <strong>🔭 Interest 🔭</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/iOS-FF0000?style=flat&logo=Apple&logoColor=white"> -->
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
 <br><br>
-<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
 <img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/C-27338E?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FFFFFF?style=flat&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-254BDD?style=flat&logo=CSS3&logoColor=white">
@@ -81,7 +80,10 @@ VR <br>
 <img src="https://img.shields.io/badge/Firebase-FFCA2B?style=flat&logo=Firebase&logoColor=black">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-            
+<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
+<img src="https://img.shields.io/badge/Xcode-1B83ED?style=flat&logo=Xcode&logoColor=white">
+
             
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujin0827&count_bg=%23E9B0E8&title_bg=%23727171&icon=smugmug.svg&icon_color=%23E7E7E7&title=today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
