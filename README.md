@@ -64,6 +64,7 @@ VR <br>
 <img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/C-27338E?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-4f1062?style=flat&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
