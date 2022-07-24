@@ -85,6 +85,10 @@ VR <br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-1B83ED?style=flat&logo=Xcode&logoColor=white">
 
+<br><br>
+<strong>✍️ Portfolio ✍️ </strong>
+[Yujin's Portfolio](https://github.com/Yujin0827/Yujin0827)
+
             
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujin0827&count_bg=%23E9B0E8&title_bg=%23727171&icon=smugmug.svg&icon_color=%23E7E7E7&title=today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
