@@ -88,7 +88,7 @@ VR <br>
 <br><br>
 <strong>✍️ Portfolio ✍️ </strong>
 <br><br>
-[Go to Yujin's portfolio](https://github.com/Yujin0827/Yujin0827)
+[Go to Yujin's portfolio](https://Yujin0827.github.io)
 
             
 <br><br><br>
