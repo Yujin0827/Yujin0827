@@ -41,7 +41,7 @@ yjjeon08@naver.com
 <br><br>
 <strong>🎓 Major 🎓</strong>
 <br><br>
-BS in Computer Science and Engineering
+Computer Science and Engineering
 
 
 <br><br>
