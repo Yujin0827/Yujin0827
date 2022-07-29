@@ -39,6 +39,12 @@ yjjeon08@naver.com
             
 
 <br><br>
+<strong>🎓 Major 🎓</strong>
+<br><br>
+BS in Computer Science and Engineering
+
+
+<br><br>
 <strong>🌱 Studying 🌱</strong>
 <br><br>
 Android <br>
