@@ -90,6 +90,8 @@ VR <br>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-1B83ED?style=flat&logo=Xcode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-FF0000?style=flat&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Zeplin-FF7F00?style=flat&logo=Zeplin&logoColor=white">
 
 <br><br>
 <strong>✍️ Portfolio ✍️ </strong>
