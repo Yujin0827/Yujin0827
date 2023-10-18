@@ -49,29 +49,28 @@ BS in Computer Science and Engineering
 <br><br>
 Android <br>
 VR <br>
-            
-<br><br>
-<strong>✨ Used as the main ✨</strong>
-<br><br>
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
-            
+
+
 <br><br>
 <strong>🔭 Interest 🔭</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
+                 
+<br><br>
+<strong>✨ Used as the Main Teck ✨</strong>
+<br><br>
+<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-ADFF2F?style=flat&logo=Linux&logoColor=black">
             
 <br><br>
 <strong>🛠️ Tech Stack 🛠️</strong>
 <br><br>
-<img src="https://img.shields.io/badge/Java-FFFFFF?style=flat&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Kotlin-9932CC?style=flat&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/Python-ADFF2F?style=flat&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/C-27338E?style=flat&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-4f1062?style=flat&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/Swift-F65A2E?style=flat&logo=Swift&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-778899?style=flat&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-FF4500?style=flat&logo=HTML5&logoColor=white">
