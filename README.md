@@ -48,14 +48,15 @@ BS in Computer Science and Engineering
 <strong>🌱 Studying 🌱</strong>
 <br><br>
 Android <br>
-VR <br>
+Linux <br>
+<!--VR <br>-->
 
 
 <br><br>
 <strong>🔭 Interest 🔭</strong>
 <br><br>
 <img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
-<img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-ADFF2F?style=flat&logo=Linux&logoColor=black">
                  
 <br><br>
 <strong>✨ Used as the Main Teck ✨</strong>
@@ -87,7 +88,6 @@ VR <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-228B22?style=flat&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Xcode-1B83ED?style=flat&logo=Xcode&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe XD-F217AD?style=flat&logo=Adobe XD&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-FF0000?style=flat&logo=Figma&logoColor=white">
