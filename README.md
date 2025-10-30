@@ -93,13 +93,6 @@ Linux <br>
 <img src="https://img.shields.io/badge/Figma-FF0000?style=flat&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Zeplin-FF7F00?style=flat&logo=Zeplin&logoColor=white">
 
-
-<br><br>
-<strong>✍️ Portfolio ✍️ </strong>
-<br><br>
-[Go to Yujin's portfolio](https://drive.google.com/drive/folders/1WHh4RKXisklXdP_cNV7Ep2Cotes1nar7?usp=sharing)
-<br>
-[Go to Yujin's web portfolio](https://Yujin0827.github.io)
             
 <br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujin0827&count_bg=%23E9B0E8&title_bg=%23727171&icon=smugmug.svg&icon_color=%23E7E7E7&title=today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
